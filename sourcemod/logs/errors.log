@@ -1,0 +1,447 @@
+L 12/05/2009 - 11:46:39: [l4d2multi.smx] +-------------------------------------------+
+L 12/05/2009 - 11:46:39: [l4d2multi.smx] |               PLUGIN START                |
+L 12/05/2009 - 11:46:39: [l4d2multi.smx] +-------------------------------------------+
+L 12/05/2009 - 11:46:39: [l4d2multi.smx] |               Version: 1 test           |
+L 12/05/2009 - 11:46:39: [l4d2multi.smx] +-------------------------------------------+
+L 12/05/2009 - 11:46:39: [l4d2multi.smx] PLUGIN_LOAD -> NOTICE: gamedir is \left4dead2. setting mp_gamemode convar flags to unprotected
+L 12/05/2009 - 11:46:39: [l4d2multi.smx] PLUGIN_LOAD -> NOTICE: gamemode is COOP. hooking events...
+L 12/05/2009 - 11:46:39: [l4d2multi.smx] HOOKED_EVENTS -> NOTICE: hooked events
+L 12/05/2009 - 11:46:39: [l4d2multi.smx] PLUGIN_LOAD -> NOTICE: gamedir is \left4dead2. restoring original mp_gamemode convar flags
+L 12/05/2009 - 11:47:54: [l4d2multi.smx] +-------------------------------------------+
+L 12/05/2009 - 11:47:54: [l4d2multi.smx] |                  MAP END                  |
+L 12/05/2009 - 11:47:54: [l4d2multi.smx] +-------------------------------------------+
+L 12/05/2009 - 11:48:38: [l4d2multi.smx] PLAYER_ACTIVATE: --> (1)General1337 <-- just activated in the game
+L 12/05/2009 - 11:52:38: [l4d2multi.smx] PLAYER_ACTIVATE: --> Trågêdÿ° [nlg] <-- just activated in the game
+L 12/05/2009 - 11:52:52: [l4d2multi.smx] PLAYER_ACTIVATE: --> monkey <-- just activated in the game
+L 12/05/2009 - 11:54:24: [l4d2multi.smx] PLAYER_ACTIVATE: --> AtomicF0x <-- just activated in the game
+L 12/05/2009 - 11:55:13: [l4d2multi.smx] +-------------------------------------------+
+L 12/05/2009 - 11:55:13: [l4d2multi.smx] |                  MAP END                  |
+L 12/05/2009 - 11:55:13: [l4d2multi.smx] +-------------------------------------------+
+L 12/05/2009 - 12:01:32: [l4d2multi.smx] +-------------------------------------------+
+L 12/05/2009 - 12:01:32: [l4d2multi.smx] |               PLUGIN START                |
+L 12/05/2009 - 12:01:32: [l4d2multi.smx] +-------------------------------------------+
+L 12/05/2009 - 12:01:32: [l4d2multi.smx] |               Version: 1 test           |
+L 12/05/2009 - 12:01:32: [l4d2multi.smx] +-------------------------------------------+
+L 12/05/2009 - 12:01:32: [l4d2multi.smx] PLUGIN_LOAD -> NOTICE: gamedir is \left4dead2. setting mp_gamemode convar flags to unprotected
+L 12/05/2009 - 12:01:32: [l4d2multi.smx] PLUGIN_LOAD -> NOTICE: gamemode is COOP. hooking events...
+L 12/05/2009 - 12:01:32: [l4d2multi.smx] HOOKED_EVENTS -> NOTICE: hooked events
+L 12/05/2009 - 12:01:32: [l4d2multi.smx] PLUGIN_LOAD -> NOTICE: gamedir is \left4dead2. restoring original mp_gamemode convar flags
+L 12/05/2009 - 12:04:01: [l4d2multi.smx] +-------------------------------------------+
+L 12/05/2009 - 12:04:01: [l4d2multi.smx] |                  MAP END                  |
+L 12/05/2009 - 12:04:01: [l4d2multi.smx] +-------------------------------------------+
+L 12/05/2009 - 12:05:05: [l4d2multi.smx] PLAYER_ACTIVATE: --> General1337 <-- just activated in the game
+L 12/05/2009 - 12:05:38: [l4d2multi.smx] PLAYER_ACTIVATE: --> gaunt <-- just activated in the game
+L 12/05/2009 - 12:10:32: [l4d2multi.smx] +-------------------------------------------+
+L 12/05/2009 - 12:10:32: [l4d2multi.smx] |               PLUGIN START                |
+L 12/05/2009 - 12:10:32: [l4d2multi.smx] +-------------------------------------------+
+L 12/05/2009 - 12:10:32: [l4d2multi.smx] |               Version: 1 test           |
+L 12/05/2009 - 12:10:32: [l4d2multi.smx] +-------------------------------------------+
+L 12/05/2009 - 12:10:32: [l4d2multi.smx] PLUGIN_LOAD -> NOTICE: gamedir is \left4dead2. setting mp_gamemode convar flags to unprotected
+L 12/05/2009 - 12:10:32: [l4d2multi.smx] PLUGIN_LOAD -> NOTICE: gamemode is COOP. hooking events...
+L 12/05/2009 - 12:10:32: [l4d2multi.smx] HOOKED_EVENTS -> NOTICE: hooked events
+L 12/05/2009 - 12:10:32: [l4d2multi.smx] PLUGIN_LOAD -> NOTICE: gamedir is \left4dead2. restoring original mp_gamemode convar flags
+L 12/05/2009 - 12:11:50: [l4d2multi.smx] +-------------------------------------------+
+L 12/05/2009 - 12:11:50: [l4d2multi.smx] |                  MAP END                  |
+L 12/05/2009 - 12:11:50: [l4d2multi.smx] +-------------------------------------------+
+L 12/05/2009 - 12:12:11: [l4d2multi.smx] PLAYER_ACTIVATE: --> General1337 <-- just activated in the game
+L 12/05/2009 - 12:12:18: [l4d2multi.smx] PLAYER_ACTIVATE: --> ShaRose <-- just activated in the game
+L 12/05/2009 - 12:12:45: [l4d2multi.smx] PLAYER_ACTIVATE: --> Dath <-- just activated in the game
+L 12/05/2009 - 12:13:51: [l4d2multi.smx] PLAYER_ACTIVATE: --> General1337 <-- just activated in the game
+L 12/05/2009 - 12:15:06: [l4d2multi.smx] PLAYER_ACTIVATE: --> .=QUACK=.Whip_Lash <-- just activated in the game
+L 12/05/2009 - 12:54:07: [l4d2multi.smx] +-------------------------------------------+
+L 12/05/2009 - 12:54:07: [l4d2multi.smx] |               PLUGIN START                |
+L 12/05/2009 - 12:54:07: [l4d2multi.smx] +-------------------------------------------+
+L 12/05/2009 - 12:54:07: [l4d2multi.smx] |               Version: 1 test           |
+L 12/05/2009 - 12:54:07: [l4d2multi.smx] +-------------------------------------------+
+L 12/05/2009 - 12:54:07: [l4d2multi.smx] PLUGIN_LOAD -> NOTICE: gamedir is \left4dead2. setting mp_gamemode convar flags to unprotected
+L 12/05/2009 - 12:54:07: [l4d2multi.smx] PLUGIN_LOAD -> NOTICE: gamemode is COOP. hooking events...
+L 12/05/2009 - 12:54:07: [l4d2multi.smx] HOOKED_EVENTS -> NOTICE: hooked events
+L 12/05/2009 - 12:54:07: [l4d2multi.smx] PLUGIN_LOAD -> NOTICE: gamedir is \left4dead2. restoring original mp_gamemode convar flags
+L 12/05/2009 - 12:56:18: [l4d2multi.smx] +-------------------------------------------+
+L 12/05/2009 - 12:56:18: [l4d2multi.smx] |                  MAP END                  |
+L 12/05/2009 - 12:56:18: [l4d2multi.smx] +-------------------------------------------+
+L 12/05/2009 - 12:56:39: [l4d2multi.smx] PLAYER_ACTIVATE: --> General1337 <-- just activated in the game
+L 12/05/2009 - 12:57:19: [l4d2multi.smx] PLAYER_ACTIVATE: --> Doc <-- just activated in the game
+L 12/05/2009 - 12:58:17: [l4d2multi.smx] PLAYER_ACTIVATE: --> FalloutDude <-- just activated in the game
+L 12/05/2009 - 12:58:29: [l4d2multi.smx] PLAYER_ACTIVATE: --> General1337 <-- just activated in the game
+L 12/05/2009 - 12:58:37: [l4d2multi.smx] PLAYER_ACTIVATE: --> <IceColdBrewHaHa> <-- just activated in the game
+L 12/05/2009 - 12:58:45: [l4d2multi.smx] PLAYER_ACTIVATE: --> General1337 <-- just activated in the game
+L 12/05/2009 - 12:58:47: [l4d2multi.smx] DISCONNECT:	--> FalloutDude <-- just disconnected from the server
+L 12/05/2009 - 12:59:00: [l4d2multi.smx] DISCONNECT:	--> General1337 <-- just disconnected from the server
+L 12/05/2009 - 12:59:05: [l4d2multi.smx] DISCONNECT:	--> <IceColdBrewHaHa> <-- just disconnected from the server
+L 12/05/2009 - 12:59:05: [l4d2multi.smx] DISCONNECT:	--> Reddrago999 <-- just disconnected from the server
+L 12/05/2009 - 12:59:05: [l4d2multi.smx] +-------------------------------------------+
+L 12/05/2009 - 12:59:05: [l4d2multi.smx] |                  MAP END                  |
+L 12/05/2009 - 12:59:05: [l4d2multi.smx] +-------------------------------------------+
+L 12/05/2009 - 12:59:28: [l4d2multi.smx] +-------------------------------------------+
+L 12/05/2009 - 12:59:28: [l4d2multi.smx] |               PLUGIN START                |
+L 12/05/2009 - 12:59:28: [l4d2multi.smx] +-------------------------------------------+
+L 12/05/2009 - 12:59:28: [l4d2multi.smx] |               Version: 1 test           |
+L 12/05/2009 - 12:59:28: [l4d2multi.smx] +-------------------------------------------+
+L 12/05/2009 - 12:59:28: [l4d2multi.smx] PLUGIN_LOAD -> NOTICE: gamedir is \left4dead2. setting mp_gamemode convar flags to unprotected
+L 12/05/2009 - 12:59:28: [l4d2multi.smx] PLUGIN_LOAD -> NOTICE: gamemode is COOP. hooking events...
+L 12/05/2009 - 12:59:28: [l4d2multi.smx] HOOKED_EVENTS -> NOTICE: hooked events
+L 12/05/2009 - 12:59:28: [l4d2multi.smx] PLUGIN_LOAD -> NOTICE: gamedir is \left4dead2. restoring original mp_gamemode convar flags
+L 12/05/2009 - 13:02:04: [l4d2multi.smx] +-------------------------------------------+
+L 12/05/2009 - 13:02:04: [l4d2multi.smx] |                  MAP END                  |
+L 12/05/2009 - 13:02:04: [l4d2multi.smx] +-------------------------------------------+
+L 12/05/2009 - 13:04:37: [l4d2multi.smx] +-------------------------------------------+
+L 12/05/2009 - 13:04:37: [l4d2multi.smx] |               PLUGIN START                |
+L 12/05/2009 - 13:04:37: [l4d2multi.smx] +-------------------------------------------+
+L 12/05/2009 - 13:04:37: [l4d2multi.smx] |               Version: 1 test           |
+L 12/05/2009 - 13:04:37: [l4d2multi.smx] +-------------------------------------------+
+L 12/05/2009 - 13:04:37: [l4d2multi.smx] PLUGIN_LOAD -> NOTICE: gamedir is \left4dead2. setting mp_gamemode convar flags to unprotected
+L 12/05/2009 - 13:04:37: [l4d2multi.smx] PLUGIN_LOAD -> NOTICE: gamemode is COOP. hooking events...
+L 12/05/2009 - 13:04:37: [l4d2multi.smx] HOOKED_EVENTS -> NOTICE: hooked events
+L 12/05/2009 - 13:04:37: [l4d2multi.smx] PLUGIN_LOAD -> NOTICE: gamedir is \left4dead2. restoring original mp_gamemode convar flags
+L 12/05/2009 - 13:06:48: [l4d2multi.smx] +-------------------------------------------+
+L 12/05/2009 - 13:06:48: [l4d2multi.smx] |                  MAP END                  |
+L 12/05/2009 - 13:06:48: [l4d2multi.smx] +-------------------------------------------+
+L 12/05/2009 - 13:07:30: [l4d2multi.smx] PLAYER_ACTIVATE: --> General1337 <-- just activated in the game
+L 12/05/2009 - 13:08:39: [l4d2multi.smx] +-------------------------------------------+
+L 12/05/2009 - 13:08:39: [l4d2multi.smx] |                  MAP END                  |
+L 12/05/2009 - 13:08:39: [l4d2multi.smx] +-------------------------------------------+
+L 12/05/2009 - 13:08:52: [l4d2multi.smx] +-------------------------------------------+
+L 12/05/2009 - 13:08:52: [l4d2multi.smx] |               PLUGIN START                |
+L 12/05/2009 - 13:08:52: [l4d2multi.smx] +-------------------------------------------+
+L 12/05/2009 - 13:08:52: [l4d2multi.smx] |               Version: 1 test           |
+L 12/05/2009 - 13:08:52: [l4d2multi.smx] +-------------------------------------------+
+L 12/05/2009 - 13:08:52: [l4d2multi.smx] PLUGIN_LOAD -> NOTICE: gamedir is \left4dead2. setting mp_gamemode convar flags to unprotected
+L 12/05/2009 - 13:08:52: [l4d2multi.smx] PLUGIN_LOAD -> NOTICE: gamemode is COOP. hooking events...
+L 12/05/2009 - 13:08:52: [l4d2multi.smx] HOOKED_EVENTS -> NOTICE: hooked events
+L 12/05/2009 - 13:08:52: [l4d2multi.smx] PLUGIN_LOAD -> NOTICE: gamedir is \left4dead2. restoring original mp_gamemode convar flags
+L 12/05/2009 - 13:09:19: [l4d2multi.smx] +-------------------------------------------+
+L 12/05/2009 - 13:09:19: [l4d2multi.smx] |                  MAP END                  |
+L 12/05/2009 - 13:09:19: [l4d2multi.smx] +-------------------------------------------+
+L 12/05/2009 - 13:10:28: [l4d2multi.smx] +-------------------------------------------+
+L 12/05/2009 - 13:10:28: [l4d2multi.smx] |                  MAP END                  |
+L 12/05/2009 - 13:10:28: [l4d2multi.smx] +-------------------------------------------+
+L 12/05/2009 - 13:10:40: [l4d2multi.smx] +-------------------------------------------+
+L 12/05/2009 - 13:10:40: [l4d2multi.smx] |               PLUGIN START                |
+L 12/05/2009 - 13:10:40: [l4d2multi.smx] +-------------------------------------------+
+L 12/05/2009 - 13:10:40: [l4d2multi.smx] |               Version: 1 test           |
+L 12/05/2009 - 13:10:40: [l4d2multi.smx] +-------------------------------------------+
+L 12/05/2009 - 13:10:40: [l4d2multi.smx] PLUGIN_LOAD -> NOTICE: gamedir is \left4dead2. setting mp_gamemode convar flags to unprotected
+L 12/05/2009 - 13:10:40: [l4d2multi.smx] PLUGIN_LOAD -> NOTICE: gamemode is COOP. hooking events...
+L 12/05/2009 - 13:10:40: [l4d2multi.smx] HOOKED_EVENTS -> NOTICE: hooked events
+L 12/05/2009 - 13:10:40: [l4d2multi.smx] PLUGIN_LOAD -> NOTICE: gamedir is \left4dead2. restoring original mp_gamemode convar flags
+L 12/05/2009 - 13:11:29: [l4d2multi.smx] +-------------------------------------------+
+L 12/05/2009 - 13:11:29: [l4d2multi.smx] |                  MAP END                  |
+L 12/05/2009 - 13:11:29: [l4d2multi.smx] +-------------------------------------------+
+L 12/05/2009 - 13:12:03: [l4d2multi.smx] PLAYER_ACTIVATE: --> Toren <-- just activated in the game
+L 12/05/2009 - 13:12:19: [l4d2multi.smx] PLAYER_ACTIVATE: --> General1337 <-- just activated in the game
+L 12/05/2009 - 13:13:16: [l4d2multi.smx] PLAYER_ACTIVATE: --> Vaklav <-- just activated in the game
+L 12/05/2009 - 13:13:47: [l4d2multi.smx] PLAYER_CHANGE_TEAM:	--> General1337 <-- may pressed the afk button
+L 12/05/2009 - 13:13:48: [l4d2multi.smx] PLAYER_ACTIVATE -> PUT_CLIENT_SURVIVORTEAM: --> General1337 <-- has been put into the survivor team
+L 12/05/2009 - 13:14:12: [l4d2multi.smx] PLAYER_ACTIVATE: --> hawk818daking <-- just activated in the game
+L 12/05/2009 - 13:16:08: [l4d2multi.smx] PLAYER_ACTIVATE: --> ShaRose <-- just activated in the game
+L 12/05/2009 - 13:16:08: [l4d2multi.smx] PLAYER_ACTIVATE: HumamInGamePlayerCount is bigger than 4 --> Reported: 5 <--  TEAMID: 0
+L 12/05/2009 - 13:16:08: [l4d2multi.smx] PLAYER_ACTIVATE -> ADD_BOT: bebop_fake_client created. kicking bebop_fake client now to make bot take over
+L 12/05/2009 - 13:16:09: [l4d2multi.smx] PLAYER_ACTIVATE -> ADD_BOT -> KICK_BEBOP_FAKE_CLIENT_TIMER: kicked the bebop_fake_client from the server. bot should take over now
+L 12/05/2009 - 13:16:11: [l4d2multi.smx] PLAYER_ACTIVATE: --> HTF <-- just activated in the game
+L 12/05/2009 - 13:16:11: [l4d2multi.smx] PLAYER_ACTIVATE: HumamInGamePlayerCount is bigger than 4 --> Reported: 6 <--  TEAMID: 0
+L 12/05/2009 - 13:16:11: [l4d2multi.smx] PLAYER_ACTIVATE -> ADD_BOT: bebop_fake_client created. kicking bebop_fake client now to make bot take over
+L 12/05/2009 - 13:16:12: [l4d2multi.smx] PLAYER_ACTIVATE -> ADD_BOT -> KICK_BEBOP_FAKE_CLIENT_TIMER: kicked the bebop_fake_client from the server. bot should take over now
+L 12/05/2009 - 13:16:18: [l4d2multi.smx] PLAYER_ACTIVATE -> PUT_CLIENT_SURVIVORTEAM: --> HTF <-- has been put into the survivor team
+L 12/05/2009 - 13:16:21: [l4d2multi.smx] PLAYER_ACTIVATE -> PUT_CLIENT_SURVIVORTEAM: --> HTF <-- has been put into the survivor team
+L 12/05/2009 - 13:18:14: [l4d2multi.smx] PLAYER_ACTIVATE: --> {SVS} jocker <-- just activated in the game
+L 12/05/2009 - 13:18:14: [l4d2multi.smx] PLAYER_ACTIVATE: HumamInGamePlayerCount is bigger than 4 --> Reported: 7 <--  TEAMID: 0
+L 12/05/2009 - 13:18:14: [l4d2multi.smx] PLAYER_ACTIVATE -> ADD_BOT: bebop_fake_client created. kicking bebop_fake client now to make bot take over
+L 12/05/2009 - 13:18:15: [l4d2multi.smx] PLAYER_ACTIVATE -> ADD_BOT -> KICK_BEBOP_FAKE_CLIENT_TIMER: kicked the bebop_fake_client from the server. bot should take over now
+L 12/05/2009 - 13:18:24: [l4d2multi.smx] PLAYER_ACTIVATE -> PUT_CLIENT_SURVIVORTEAM: --> {SVS} jocker <-- has been put into the survivor team
+L 12/05/2009 - 13:28:40: [l4d2multi.smx] PLAYER_ACTIVATE: --> Moguli <-- just activated in the game
+L 12/05/2009 - 13:28:40: [l4d2multi.smx] PLAYER_ACTIVATE: HumamInGamePlayerCount is bigger than 4 --> Reported: 8 <--  TEAMID: 0
+L 12/05/2009 - 13:28:40: [l4d2multi.smx] PLAYER_ACTIVATE -> ADD_BOT: bebop_fake_client created. kicking bebop_fake client now to make bot take over
+L 12/05/2009 - 13:28:41: [l4d2multi.smx] PLAYER_ACTIVATE -> ADD_BOT -> KICK_BEBOP_FAKE_CLIENT_TIMER: kicked the bebop_fake_client from the server. bot should take over now
+L 12/05/2009 - 13:28:50: [l4d2multi.smx] PLAYER_ACTIVATE -> PUT_CLIENT_SURVIVORTEAM: --> Moguli <-- has been put into the survivor team
+L 12/05/2009 - 13:29:53: [l4d2multi.smx] PLAYER_CHANGE_TEAM:	--> Moguli <-- may pressed the afk button
+L 12/05/2009 - 13:29:54: [l4d2multi.smx] PLAYER_ACTIVATE -> PUT_CLIENT_SURVIVORTEAM: --> Moguli <-- has been put into the survivor team
+L 12/05/2009 - 13:30:49: [l4d2multi.smx] PLAYER_ACTIVATE: --> [T/4] Jª¢κ_Fi®€ (ldr) <-- just activated in the game
+L 12/05/2009 - 13:30:49: [l4d2multi.smx] PLAYER_ACTIVATE: HumamInGamePlayerCount is bigger than 4 --> Reported: 9 <--  TEAMID: 0
+L 12/05/2009 - 13:30:49: [l4d2multi.smx] PLAYER_ACTIVATE -> ADD_BOT: bebop_fake_client created. kicking bebop_fake client now to make bot take over
+L 12/05/2009 - 13:30:49: [l4d2multi.smx] DISCONNECT:	--> Moguli <-- just disconnected from the server
+L 12/05/2009 - 13:30:49: [l4d2multi.smx] DISCONNECT -> KICK_BOT: HumamInGamePlayerCount is bigger or equals 4 --> Reported: 8 <-- 
+L 12/05/2009 - 13:30:49: [l4d2multi.smx] DISCONNECT -> KICK_BOT -> TIMER: searching for a bot to kick now
+L 12/05/2009 - 13:30:50: [l4d2multi.smx] PLAYER_ACTIVATE -> ADD_BOT -> KICK_BEBOP_FAKE_CLIENT_TIMER: kicked the bebop_fake_client from the server. bot should take over now
+L 12/05/2009 - 13:30:59: [l4d2multi.smx] PLAYER_ACTIVATE -> PUT_CLIENT_SURVIVORTEAM: --> bebop_bot_fakeclient <-- has been put into the survivor team
+L 12/05/2009 - 13:32:34: [l4d2multi.smx] PLAYER_CHANGE_TEAM:	--> Toren <-- may pressed the afk button
+L 12/05/2009 - 13:32:34: [l4d2multi.smx] PLAYER_CHANGE_TEAM:	--> General1337 <-- may pressed the afk button
+L 12/05/2009 - 13:32:34: [l4d2multi.smx] PLAYER_CHANGE_TEAM:	--> hawk818daking <-- may pressed the afk button
+L 12/05/2009 - 13:32:34: [l4d2multi.smx] PLAYER_CHANGE_TEAM:	--> Vaklav <-- may pressed the afk button
+L 12/05/2009 - 13:32:34: [l4d2multi.smx] PLAYER_CHANGE_TEAM:	--> {SVS} jocker <-- may pressed the afk button
+L 12/05/2009 - 13:32:34: [l4d2multi.smx] PLAYER_CHANGE_TEAM:	--> ShaRose <-- may pressed the afk button
+L 12/05/2009 - 13:32:34: [l4d2multi.smx] PLAYER_CHANGE_TEAM:	--> HTF <-- may pressed the afk button
+L 12/05/2009 - 13:32:35: [l4d2multi.smx] PLAYER_ACTIVATE -> PUT_CLIENT_SURVIVORTEAM: --> HTF <-- has been put into the survivor team
+L 12/05/2009 - 13:32:35: [l4d2multi.smx] PLAYER_ACTIVATE -> PUT_CLIENT_SURVIVORTEAM: --> HTF <-- has been put into the survivor team
+L 12/05/2009 - 13:32:35: [l4d2multi.smx] PLAYER_ACTIVATE -> PUT_CLIENT_SURVIVORTEAM: --> HTF <-- has been put into the survivor team
+L 12/05/2009 - 13:32:35: [l4d2multi.smx] PLAYER_ACTIVATE -> PUT_CLIENT_SURVIVORTEAM: --> HTF <-- has been put into the survivor team
+L 12/05/2009 - 13:32:35: [l4d2multi.smx] PLAYER_ACTIVATE -> PUT_CLIENT_SURVIVORTEAM: --> HTF <-- has been put into the survivor team
+L 12/05/2009 - 13:32:35: [l4d2multi.smx] PLAYER_ACTIVATE -> PUT_CLIENT_SURVIVORTEAM: --> HTF <-- has been put into the survivor team
+L 12/05/2009 - 13:32:35: [l4d2multi.smx] PLAYER_ACTIVATE -> PUT_CLIENT_SURVIVORTEAM: --> HTF <-- has been put into the survivor team
+L 12/05/2009 - 13:32:38: [l4d2multi.smx] DISCONNECT:	--> General1337 <-- just disconnected from the server
+L 12/05/2009 - 13:32:38: [l4d2multi.smx] DISCONNECT -> KICK_BOT: HumamInGamePlayerCount is bigger or equals 4 --> Reported: 7 <-- 
+L 12/05/2009 - 13:32:38: [l4d2multi.smx] DISCONNECT:	--> Vaklav <-- just disconnected from the server
+L 12/05/2009 - 13:32:38: [l4d2multi.smx] DISCONNECT -> KICK_BOT: HumamInGamePlayerCount is bigger or equals 4 --> Reported: 6 <-- 
+L 12/05/2009 - 13:32:39: [l4d2multi.smx] DISCONNECT:	--> hawk818daking <-- just disconnected from the server
+L 12/05/2009 - 13:32:39: [l4d2multi.smx] DISCONNECT -> KICK_BOT: HumamInGamePlayerCount is bigger or equals 4 --> Reported: 5 <-- 
+L 12/05/2009 - 13:32:39: [l4d2multi.smx] DISCONNECT:	--> Toren <-- just disconnected from the server
+L 12/05/2009 - 13:32:39: [l4d2multi.smx] DISCONNECT -> KICK_BOT: HumamInGamePlayerCount is bigger or equals 4 --> Reported: 4 <-- 
+L 12/05/2009 - 13:32:39: [l4d2multi.smx] DISCONNECT -> KICK_BOT -> TIMER: searching for a bot to kick now
+L 12/05/2009 - 13:32:39: [l4d2multi.smx] DISCONNECT -> KICK_BOT -> TIMER: --> Coach <-- has been kicked 
+L 12/05/2009 - 13:32:39: [l4d2multi.smx] DISCONNECT -> KICK_BOT -> TIMER: searching for a bot to kick now
+L 12/05/2009 - 13:32:39: [l4d2multi.smx] DISCONNECT -> KICK_BOT -> TIMER: --> Coach <-- has been kicked 
+L 12/05/2009 - 13:32:39: [l4d2multi.smx] DISCONNECT:	--> HTF <-- just disconnected from the server
+L 12/05/2009 - 13:32:39: [l4d2multi.smx] DISCONNECT -> KICK_BOT -> TIMER: searching for a bot to kick now
+L 12/05/2009 - 13:32:39: [l4d2multi.smx] DISCONNECT -> KICK_BOT -> TIMER: --> Ellis <-- has been kicked 
+L 12/05/2009 - 13:32:39: [l4d2multi.smx] DISCONNECT -> KICK_BOT -> TIMER: searching for a bot to kick now
+L 12/05/2009 - 13:32:39: [l4d2multi.smx] DISCONNECT -> KICK_BOT -> TIMER: --> Nick <-- has been kicked 
+L 12/05/2009 - 13:32:39: [l4d2multi.smx] DISCONNECT:	--> ShaRose <-- just disconnected from the server
+L 12/05/2009 - 13:32:39: [l4d2multi.smx] DISCONNECT:	--> {SVS} jocker <-- just disconnected from the server
+L 12/05/2009 - 13:32:39: [l4d2multi.smx] DISCONNECT:	--> [T/4] Jª¢κ_Fi®€ (ldr) <-- just disconnected from the server
+L 12/05/2009 - 13:41:31: [l4d2multi.smx] PLAYER_ACTIVATE: --> Amore <-- just activated in the game
+L 12/05/2009 - 13:41:51: [l4d2multi.smx] DISCONNECT:	--> Amore <-- just disconnected from the server
+L 12/05/2009 - 13:41:51: [l4d2multi.smx] +-------------------------------------------+
+L 12/05/2009 - 13:41:51: [l4d2multi.smx] |                  MAP END                  |
+L 12/05/2009 - 13:41:51: [l4d2multi.smx] +-------------------------------------------+
+L 12/05/2009 - 13:49:51: [l4d2multi.smx] +-------------------------------------------+
+L 12/05/2009 - 13:49:51: [l4d2multi.smx] |               PLUGIN START                |
+L 12/05/2009 - 13:49:51: [l4d2multi.smx] +-------------------------------------------+
+L 12/05/2009 - 13:49:51: [l4d2multi.smx] |               Version: 1 test           |
+L 12/05/2009 - 13:49:51: [l4d2multi.smx] +-------------------------------------------+
+L 12/05/2009 - 13:49:51: [l4d2multi.smx] PLUGIN_LOAD -> NOTICE: gamedir is \left4dead2. setting mp_gamemode convar flags to unprotected
+L 12/05/2009 - 13:49:51: [l4d2multi.smx] PLUGIN_LOAD -> NOTICE: gamemode is COOP. hooking events...
+L 12/05/2009 - 13:49:51: [l4d2multi.smx] HOOKED_EVENTS -> NOTICE: hooked events
+L 12/05/2009 - 13:49:51: [l4d2multi.smx] PLUGIN_LOAD -> NOTICE: gamedir is \left4dead2. restoring original mp_gamemode convar flags
+L 12/05/2009 - 13:51:18: [l4d2multi.smx] +-------------------------------------------+
+L 12/05/2009 - 13:51:18: [l4d2multi.smx] |                  MAP END                  |
+L 12/05/2009 - 13:51:18: [l4d2multi.smx] +-------------------------------------------+
+L 12/05/2009 - 13:52:04: [l4d2multi.smx] PLAYER_ACTIVATE: --> Leele™ <-- just activated in the game
+L 12/05/2009 - 13:52:04: [l4d2multi.smx] PLAYER_ACTIVATE: --> General1337 <-- just activated in the game
+L 12/05/2009 - 13:52:11: [l4d2multi.smx] PLAYER_ACTIVATE: --> jsChucky <-- just activated in the game
+L 12/05/2009 - 13:54:29: [l4d2multi.smx] +-------------------------------------------+
+L 12/05/2009 - 13:54:29: [l4d2multi.smx] |               PLUGIN START                |
+L 12/05/2009 - 13:54:29: [l4d2multi.smx] +-------------------------------------------+
+L 12/05/2009 - 13:54:29: [l4d2multi.smx] |               Version: 1 test           |
+L 12/05/2009 - 13:54:29: [l4d2multi.smx] +-------------------------------------------+
+L 12/05/2009 - 13:54:29: [l4d2multi.smx] PLUGIN_LOAD -> NOTICE: gamedir is \left4dead2. setting mp_gamemode convar flags to unprotected
+L 12/05/2009 - 13:54:29: [l4d2multi.smx] PLUGIN_LOAD -> NOTICE: gamemode is COOP. hooking events...
+L 12/05/2009 - 13:54:29: [l4d2multi.smx] HOOKED_EVENTS -> NOTICE: hooked events
+L 12/05/2009 - 13:54:29: [l4d2multi.smx] PLUGIN_LOAD -> NOTICE: gamedir is \left4dead2. restoring original mp_gamemode convar flags
+L 12/05/2009 - 13:55:00: [l4d2multi.smx] +-------------------------------------------+
+L 12/05/2009 - 13:55:00: [l4d2multi.smx] |                  MAP END                  |
+L 12/05/2009 - 13:55:00: [l4d2multi.smx] +-------------------------------------------+
+L 12/05/2009 - 13:55:39: [l4d2multi.smx] PLAYER_ACTIVATE: --> ShaRose <-- just activated in the game
+L 12/05/2009 - 13:55:41: [l4d2multi.smx] PLAYER_ACTIVATE: --> General1337 <-- just activated in the game
+L 12/05/2009 - 13:56:22: [l4d2multi.smx] PLAYER_ACTIVATE: --> JSharpe <-- just activated in the game
+L 12/05/2009 - 14:05:42: [l4d2multi.smx] PLAYER_ACTIVATE: --> HTF <-- just activated in the game
+L 12/05/2009 - 14:11:15: [l4d2multi.smx] PLAYER_ACTIVATE: --> HTF <-- just activated in the game
+L 12/05/2009 - 14:25:15: [l4d2multi.smx] +-------------------------------------------+
+L 12/05/2009 - 14:25:15: [l4d2multi.smx] |               PLUGIN START                |
+L 12/05/2009 - 14:25:15: [l4d2multi.smx] +-------------------------------------------+
+L 12/05/2009 - 14:25:15: [l4d2multi.smx] |               Version: 1 test           |
+L 12/05/2009 - 14:25:15: [l4d2multi.smx] +-------------------------------------------+
+L 12/05/2009 - 14:25:15: [l4d2multi.smx] PLUGIN_LOAD -> NOTICE: gamedir is \left4dead2. setting mp_gamemode convar flags to unprotected
+L 12/05/2009 - 14:25:15: [l4d2multi.smx] PLUGIN_LOAD -> NOTICE: gamemode is COOP. hooking events...
+L 12/05/2009 - 14:25:15: [l4d2multi.smx] HOOKED_EVENTS -> NOTICE: hooked events
+L 12/05/2009 - 14:25:15: [l4d2multi.smx] PLUGIN_LOAD -> NOTICE: gamedir is \left4dead2. restoring original mp_gamemode convar flags
+L 12/05/2009 - 14:25:29: [l4d2multi.smx] PLAYER_ACTIVATE: --> General1337 <-- just activated in the game
+L 12/05/2009 - 14:42:05: [l4d2multi.smx] +-------------------------------------------+
+L 12/05/2009 - 14:42:05: [l4d2multi.smx] |               PLUGIN START                |
+L 12/05/2009 - 14:42:05: [l4d2multi.smx] +-------------------------------------------+
+L 12/05/2009 - 14:42:05: [l4d2multi.smx] |               Version: 1 test           |
+L 12/05/2009 - 14:42:05: [l4d2multi.smx] +-------------------------------------------+
+L 12/05/2009 - 14:42:05: [l4d2multi.smx] PLUGIN_LOAD -> NOTICE: gamedir is \left4dead2. setting mp_gamemode convar flags to unprotected
+L 12/05/2009 - 14:42:05: [l4d2multi.smx] PLUGIN_LOAD -> NOTICE: gamemode is COOP. hooking events...
+L 12/05/2009 - 14:42:05: [l4d2multi.smx] HOOKED_EVENTS -> NOTICE: hooked events
+L 12/05/2009 - 14:42:05: [l4d2multi.smx] PLUGIN_LOAD -> NOTICE: gamedir is \left4dead2. restoring original mp_gamemode convar flags
+L 12/05/2009 - 14:42:16: [l4d2multi.smx] PLAYER_ACTIVATE: --> General1337 <-- just activated in the game
+L 12/05/2009 - 14:43:41: [l4d2multi.smx] +-------------------------------------------+
+L 12/05/2009 - 14:43:41: [l4d2multi.smx] |               PLUGIN START                |
+L 12/05/2009 - 14:43:41: [l4d2multi.smx] +-------------------------------------------+
+L 12/05/2009 - 14:43:41: [l4d2multi.smx] |               Version: 1 test           |
+L 12/05/2009 - 14:43:41: [l4d2multi.smx] +-------------------------------------------+
+L 12/05/2009 - 14:43:41: [l4d2multi.smx] PLUGIN_LOAD -> NOTICE: gamedir is \left4dead2. setting mp_gamemode convar flags to unprotected
+L 12/05/2009 - 14:43:41: [l4d2multi.smx] PLUGIN_LOAD -> NOTICE: gamemode is COOP. hooking events...
+L 12/05/2009 - 14:43:41: [l4d2multi.smx] HOOKED_EVENTS -> NOTICE: hooked events
+L 12/05/2009 - 14:43:41: [l4d2multi.smx] PLUGIN_LOAD -> NOTICE: gamedir is \left4dead2. restoring original mp_gamemode convar flags
+L 12/05/2009 - 14:43:52: [l4d2multi.smx] PLAYER_ACTIVATE: --> General1337 <-- just activated in the game
+L 12/05/2009 - 14:50:06: [l4d2multi.smx] +-------------------------------------------+
+L 12/05/2009 - 14:50:06: [l4d2multi.smx] |                  MAP END                  |
+L 12/05/2009 - 14:50:06: [l4d2multi.smx] +-------------------------------------------+
+L 12/05/2009 - 15:03:52: [l4d2multi.smx] +-------------------------------------------+
+L 12/05/2009 - 15:03:52: [l4d2multi.smx] |               PLUGIN START                |
+L 12/05/2009 - 15:03:52: [l4d2multi.smx] +-------------------------------------------+
+L 12/05/2009 - 15:03:52: [l4d2multi.smx] |               Version: 1 test           |
+L 12/05/2009 - 15:03:52: [l4d2multi.smx] +-------------------------------------------+
+L 12/05/2009 - 15:03:52: [l4d2multi.smx] PLUGIN_LOAD -> NOTICE: gamedir is \left4dead2. setting mp_gamemode convar flags to unprotected
+L 12/05/2009 - 15:03:52: [l4d2multi.smx] PLUGIN_LOAD -> NOTICE: gamemode is COOP. hooking events...
+L 12/05/2009 - 15:03:52: [l4d2multi.smx] HOOKED_EVENTS -> NOTICE: hooked events
+L 12/05/2009 - 15:03:52: [l4d2multi.smx] PLUGIN_LOAD -> NOTICE: gamedir is \left4dead2. restoring original mp_gamemode convar flags
+L 12/05/2009 - 15:04:03: [l4d2multi.smx] PLAYER_ACTIVATE: --> General1337 <-- just activated in the game
+L 12/05/2009 - 15:07:51: [l4d2multi.smx] +-------------------------------------------+
+L 12/05/2009 - 15:07:51: [l4d2multi.smx] |               PLUGIN START                |
+L 12/05/2009 - 15:07:51: [l4d2multi.smx] +-------------------------------------------+
+L 12/05/2009 - 15:07:51: [l4d2multi.smx] |               Version: 1 test           |
+L 12/05/2009 - 15:07:51: [l4d2multi.smx] +-------------------------------------------+
+L 12/05/2009 - 15:07:51: [l4d2multi.smx] PLUGIN_LOAD -> NOTICE: gamedir is \left4dead2. setting mp_gamemode convar flags to unprotected
+L 12/05/2009 - 15:07:51: [l4d2multi.smx] PLUGIN_LOAD -> NOTICE: gamemode is COOP. hooking events...
+L 12/05/2009 - 15:07:51: [l4d2multi.smx] HOOKED_EVENTS -> NOTICE: hooked events
+L 12/05/2009 - 15:07:51: [l4d2multi.smx] PLUGIN_LOAD -> NOTICE: gamedir is \left4dead2. restoring original mp_gamemode convar flags
+L 12/05/2009 - 15:08:02: [l4d2multi.smx] PLAYER_ACTIVATE: --> General1337 <-- just activated in the game
+L 12/05/2009 - 15:09:37: [l4d2multi.smx] +-------------------------------------------+
+L 12/05/2009 - 15:09:37: [l4d2multi.smx] |                  MAP END                  |
+L 12/05/2009 - 15:09:37: [l4d2multi.smx] +-------------------------------------------+
+L 12/05/2009 - 15:18:02: [l4d2multi.smx] +-------------------------------------------+
+L 12/05/2009 - 15:18:02: [l4d2multi.smx] |               PLUGIN START                |
+L 12/05/2009 - 15:18:02: [l4d2multi.smx] +-------------------------------------------+
+L 12/05/2009 - 15:18:02: [l4d2multi.smx] |               Version: 1 test           |
+L 12/05/2009 - 15:18:02: [l4d2multi.smx] +-------------------------------------------+
+L 12/05/2009 - 15:18:02: [l4d2multi.smx] PLUGIN_LOAD -> NOTICE: gamedir is \left4dead2. setting mp_gamemode convar flags to unprotected
+L 12/05/2009 - 15:18:02: [l4d2multi.smx] PLUGIN_LOAD -> NOTICE: gamemode is COOP. hooking events...
+L 12/05/2009 - 15:18:02: [l4d2multi.smx] HOOKED_EVENTS -> NOTICE: hooked events
+L 12/05/2009 - 15:18:02: [l4d2multi.smx] PLUGIN_LOAD -> NOTICE: gamedir is \left4dead2. restoring original mp_gamemode convar flags
+L 12/05/2009 - 15:18:12: [l4d2multi.smx] PLAYER_ACTIVATE: --> General1337 <-- just activated in the game
+L 12/05/2009 - 15:19:46: [l4d2multi.smx] +-------------------------------------------+
+L 12/05/2009 - 15:19:46: [l4d2multi.smx] |                  MAP END                  |
+L 12/05/2009 - 15:19:46: [l4d2multi.smx] +-------------------------------------------+
+L 12/05/2009 - 15:27:19: [l4d2multi.smx] +-------------------------------------------+
+L 12/05/2009 - 15:27:19: [l4d2multi.smx] |               PLUGIN START                |
+L 12/05/2009 - 15:27:19: [l4d2multi.smx] +-------------------------------------------+
+L 12/05/2009 - 15:27:19: [l4d2multi.smx] |               Version: 1 test           |
+L 12/05/2009 - 15:27:19: [l4d2multi.smx] +-------------------------------------------+
+L 12/05/2009 - 15:27:19: [l4d2multi.smx] PLUGIN_LOAD -> NOTICE: gamedir is \left4dead2. setting mp_gamemode convar flags to unprotected
+L 12/05/2009 - 15:27:19: [l4d2multi.smx] PLUGIN_LOAD -> NOTICE: gamemode is COOP. hooking events...
+L 12/05/2009 - 15:27:19: [l4d2multi.smx] HOOKED_EVENTS -> NOTICE: hooked events
+L 12/05/2009 - 15:27:19: [l4d2multi.smx] PLUGIN_LOAD -> NOTICE: gamedir is \left4dead2. restoring original mp_gamemode convar flags
+L 12/05/2009 - 15:27:28: [l4d2multi.smx] PLAYER_ACTIVATE: --> General1337 <-- just activated in the game
+L 12/05/2009 - 15:28:36: [l4d2multi.smx] +-------------------------------------------+
+L 12/05/2009 - 15:28:36: [l4d2multi.smx] |                  MAP END                  |
+L 12/05/2009 - 15:28:36: [l4d2multi.smx] +-------------------------------------------+
+L 12/05/2009 - 15:38:43: [l4d2multi.smx] +-------------------------------------------+
+L 12/05/2009 - 15:38:43: [l4d2multi.smx] |               PLUGIN START                |
+L 12/05/2009 - 15:38:43: [l4d2multi.smx] +-------------------------------------------+
+L 12/05/2009 - 15:38:43: [l4d2multi.smx] |               Version: 1 test           |
+L 12/05/2009 - 15:38:43: [l4d2multi.smx] +-------------------------------------------+
+L 12/05/2009 - 15:38:43: [l4d2multi.smx] PLUGIN_LOAD -> NOTICE: gamedir is \left4dead2. setting mp_gamemode convar flags to unprotected
+L 12/05/2009 - 15:38:43: [l4d2multi.smx] PLUGIN_LOAD -> NOTICE: gamemode is COOP. hooking events...
+L 12/05/2009 - 15:38:43: [l4d2multi.smx] HOOKED_EVENTS -> NOTICE: hooked events
+L 12/05/2009 - 15:38:43: [l4d2multi.smx] PLUGIN_LOAD -> NOTICE: gamedir is \left4dead2. restoring original mp_gamemode convar flags
+L 12/05/2009 - 15:38:53: [l4d2multi.smx] PLAYER_ACTIVATE: --> General1337 <-- just activated in the game
+L 12/05/2009 - 15:46:16: [l4d2multi.smx] PLAYER_ACTIVATE: --> ShaRose <-- just activated in the game
+L 12/05/2009 - 15:47:16: [l4d2multi.smx] PLAYER_CHANGE_TEAM:	--> General1337 <-- may pressed the afk button
+L 12/05/2009 - 15:47:17: [l4d2multi.smx] PLAYER_ACTIVATE -> PUT_CLIENT_SURVIVORTEAM: --> General1337 <-- has been put into the survivor team
+L 12/05/2009 - 15:49:33: [l4d2multi.smx] PLAYER_ACTIVATE: --> aschmack <-- just activated in the game
+L 12/05/2009 - 15:51:33: [l4d2multi.smx] PLAYER_CHANGE_TEAM:	--> General1337 <-- may pressed the afk button
+L 12/05/2009 - 15:51:34: [l4d2multi.smx] PLAYER_ACTIVATE -> PUT_CLIENT_SURVIVORTEAM: --> General1337 <-- has been put into the survivor team
+L 12/05/2009 - 15:54:25: [l4d2multi.smx] PLAYER_CHANGE_TEAM:	--> General1337 <-- may pressed the afk button
+L 12/05/2009 - 15:54:26: [l4d2multi.smx] PLAYER_ACTIVATE -> PUT_CLIENT_SURVIVORTEAM: --> General1337 <-- has been put into the survivor team
+L 12/05/2009 - 15:57:33: [l4d2multi.smx] PLAYER_CHANGE_TEAM:	--> aschmack <-- may pressed the afk button
+L 12/05/2009 - 15:57:35: [l4d2multi.smx] PLAYER_ACTIVATE -> PUT_CLIENT_SURVIVORTEAM: --> aschmack <-- has been put into the survivor team
+L 12/05/2009 - 15:58:28: [l4d2multi.smx] PLAYER_CHANGE_TEAM:	--> General1337 <-- may pressed the afk button
+L 12/05/2009 - 15:58:29: [l4d2multi.smx] PLAYER_ACTIVATE -> PUT_CLIENT_SURVIVORTEAM: --> General1337 <-- has been put into the survivor team
+L 12/05/2009 - 16:00:47: [l4d2multi.smx] PLAYER_CHANGE_TEAM:	--> General1337 <-- may pressed the afk button
+L 12/05/2009 - 16:00:48: [l4d2multi.smx] PLAYER_ACTIVATE -> PUT_CLIENT_SURVIVORTEAM: --> General1337 <-- has been put into the survivor team
+L 12/05/2009 - 16:02:08: [l4d2multi.smx] +-------------------------------------------+
+L 12/05/2009 - 16:02:08: [l4d2multi.smx] |                  MAP END                  |
+L 12/05/2009 - 16:02:08: [l4d2multi.smx] +-------------------------------------------+
+L 12/05/2009 - 16:03:00: [l4d2multi.smx] +-------------------------------------------+
+L 12/05/2009 - 16:03:00: [l4d2multi.smx] |               PLUGIN START                |
+L 12/05/2009 - 16:03:00: [l4d2multi.smx] +-------------------------------------------+
+L 12/05/2009 - 16:03:00: [l4d2multi.smx] |               Version: 1 test           |
+L 12/05/2009 - 16:03:00: [l4d2multi.smx] +-------------------------------------------+
+L 12/05/2009 - 16:03:00: [l4d2multi.smx] PLUGIN_LOAD -> NOTICE: gamedir is \left4dead2. setting mp_gamemode convar flags to unprotected
+L 12/05/2009 - 16:03:00: [l4d2multi.smx] PLUGIN_LOAD -> NOTICE: gamemode is COOP. hooking events...
+L 12/05/2009 - 16:03:00: [l4d2multi.smx] HOOKED_EVENTS -> NOTICE: hooked events
+L 12/05/2009 - 16:03:00: [l4d2multi.smx] PLUGIN_LOAD -> NOTICE: gamedir is \left4dead2. restoring original mp_gamemode convar flags
+L 12/05/2009 - 16:03:56: [l4d2multi.smx] +-------------------------------------------+
+L 12/05/2009 - 16:03:56: [l4d2multi.smx] |                  MAP END                  |
+L 12/05/2009 - 16:03:56: [l4d2multi.smx] +-------------------------------------------+
+L 12/05/2009 - 16:04:24: [l4d2multi.smx] PLAYER_ACTIVATE: --> (1)General1337 <-- just activated in the game
+L 12/05/2009 - 16:04:40: [l4d2multi.smx] PLAYER_ACTIVATE: --> zerafin <-- just activated in the game
+L 12/05/2009 - 16:05:11: [l4d2multi.smx] PLAYER_ACTIVATE: --> JSharpe <-- just activated in the game
+L 12/05/2009 - 16:07:19: [l4d2multi.smx] PLAYER_ACTIVATE: --> l3lackStalker <-- just activated in the game
+L 12/05/2009 - 16:07:28: [l4d2multi.smx] PLAYER_ACTIVATE: --> ShaRose <-- just activated in the game
+L 12/05/2009 - 16:08:00: [l4d2multi.smx] PLAYER_ACTIVATE: --> General1337 <-- just activated in the game
+L 12/05/2009 - 16:18:29: [l4d2multi.smx] DISCONNECT:	--> l3lackStalker <-- just disconnected from the server
+L 12/05/2009 - 16:22:32: [l4d2multi.smx] DISCONNECT:	--> General1337 <-- just disconnected from the server
+L 12/05/2009 - 16:22:32: [l4d2multi.smx] DISCONNECT:	--> JSharpe <-- just disconnected from the server
+L 12/05/2009 - 16:22:32: [l4d2multi.smx] DISCONNECT:	--> ShaRose <-- just disconnected from the server
+L 12/05/2009 - 16:22:32: [l4d2multi.smx] +-------------------------------------------+
+L 12/05/2009 - 16:22:32: [l4d2multi.smx] |                  MAP END                  |
+L 12/05/2009 - 16:22:32: [l4d2multi.smx] +-------------------------------------------+
+L 12/05/2009 - 16:22:47: [l4d2multi.smx] PLAYER_ACTIVATE: --> ShaRose <-- just activated in the game
+L 12/05/2009 - 16:22:48: [l4d2multi.smx] PLAYER_ACTIVATE: --> General1337 <-- just activated in the game
+L 12/05/2009 - 16:22:52: [l4d2multi.smx] PLAYER_ACTIVATE: --> JSharpe <-- just activated in the game
+L 12/05/2009 - 16:27:39: [l4d2multi.smx] PLAYER_CHANGE_TEAM:	--> General1337 <-- may pressed the afk button
+L 12/05/2009 - 16:27:40: [l4d2multi.smx] PLAYER_ACTIVATE -> PUT_CLIENT_SURVIVORTEAM: --> General1337 <-- has been put into the survivor team
+L 12/05/2009 - 16:28:30: [l4d2multi.smx] PLAYER_CHANGE_TEAM:	--> General1337 <-- may pressed the afk button
+L 12/05/2009 - 16:28:31: [l4d2multi.smx] PLAYER_ACTIVATE -> PUT_CLIENT_SURVIVORTEAM: --> General1337 <-- has been put into the survivor team
+L 12/05/2009 - 16:34:21: [l4d2multi.smx] PLAYER_CHANGE_TEAM:	--> General1337 <-- may pressed the afk button
+L 12/05/2009 - 16:34:22: [l4d2multi.smx] PLAYER_ACTIVATE -> PUT_CLIENT_SURVIVORTEAM: --> General1337 <-- has been put into the survivor team
+L 12/05/2009 - 16:54:50: [l4d2multi.smx] +-------------------------------------------+
+L 12/05/2009 - 16:54:50: [l4d2multi.smx] |                  MAP END                  |
+L 12/05/2009 - 16:54:50: [l4d2multi.smx] +-------------------------------------------+
+L 12/05/2009 - 16:55:16: [l4d2multi.smx] PLAYER_ACTIVATE: --> ShaRose <-- just activated in the game
+L 12/05/2009 - 16:55:18: [l4d2multi.smx] PLAYER_ACTIVATE: --> General1337 <-- just activated in the game
+L 12/05/2009 - 16:55:28: [l4d2multi.smx] PLAYER_ACTIVATE: --> JSharpe <-- just activated in the game
+L 12/05/2009 - 16:58:27: [l4d2multi.smx] PLAYER_CHANGE_TEAM:	--> General1337 <-- may pressed the afk button
+L 12/05/2009 - 16:58:28: [l4d2multi.smx] PLAYER_ACTIVATE -> PUT_CLIENT_SURVIVORTEAM: --> General1337 <-- has been put into the survivor team
+L 12/05/2009 - 17:00:31: [l4d2multi.smx] PLAYER_ACTIVATE: --> General1337 <-- just activated in the game
+L 12/05/2009 - 17:02:10: [l4d2multi.smx] PLAYER_CHANGE_TEAM:	--> General1337 <-- may pressed the afk button
+L 12/05/2009 - 17:02:11: [l4d2multi.smx] PLAYER_ACTIVATE -> PUT_CLIENT_SURVIVORTEAM: --> General1337 <-- has been put into the survivor team
+L 12/05/2009 - 17:09:43: [l4d2multi.smx] PLAYER_CHANGE_TEAM:	--> General1337 <-- may pressed the afk button
+L 12/05/2009 - 17:09:44: [l4d2multi.smx] PLAYER_ACTIVATE -> PUT_CLIENT_SURVIVORTEAM: --> General1337 <-- has been put into the survivor team
+L 12/05/2009 - 17:28:40: [l4d2multi.smx] +-------------------------------------------+
+L 12/05/2009 - 17:28:40: [l4d2multi.smx] |                  MAP END                  |
+L 12/05/2009 - 17:28:40: [l4d2multi.smx] +-------------------------------------------+
+L 12/05/2009 - 17:29:01: [l4d2multi.smx] PLAYER_ACTIVATE: --> General1337 <-- just activated in the game
+L 12/05/2009 - 17:29:03: [l4d2multi.smx] PLAYER_ACTIVATE: --> JSharpe <-- just activated in the game
+L 12/05/2009 - 17:29:06: [l4d2multi.smx] PLAYER_ACTIVATE: --> ShaRose <-- just activated in the game
+L 12/05/2009 - 17:35:31: [l4d2multi.smx] PLAYER_CHANGE_TEAM:	--> General1337 <-- may pressed the afk button
+L 12/05/2009 - 17:35:32: [l4d2multi.smx] PLAYER_ACTIVATE -> PUT_CLIENT_SURVIVORTEAM: --> General1337 <-- has been put into the survivor team
+L 12/05/2009 - 21:26:07: [l4d2multi.smx] +-------------------------------------------+
+L 12/05/2009 - 21:26:07: [l4d2multi.smx] |               PLUGIN START                |
+L 12/05/2009 - 21:26:07: [l4d2multi.smx] +-------------------------------------------+
+L 12/05/2009 - 21:26:07: [l4d2multi.smx] |               Version: 1 test           |
+L 12/05/2009 - 21:26:07: [l4d2multi.smx] +-------------------------------------------+
+L 12/05/2009 - 21:26:07: [l4d2multi.smx] PLUGIN_LOAD -> NOTICE: gamedir is \left4dead2. setting mp_gamemode convar flags to unprotected
+L 12/05/2009 - 21:26:07: [l4d2multi.smx] PLUGIN_LOAD -> NOTICE: gamemode is COOP. hooking events...
+L 12/05/2009 - 21:26:07: [l4d2multi.smx] HOOKED_EVENTS -> NOTICE: hooked events
+L 12/05/2009 - 21:26:07: [l4d2multi.smx] PLUGIN_LOAD -> NOTICE: gamedir is \left4dead2. restoring original mp_gamemode convar flags
+L 12/05/2009 - 21:26:26: [l4d2multi.smx] PLAYER_ACTIVATE: --> General1337 <-- just activated in the game
+L 12/05/2009 - 21:32:02: [l4d2multi.smx] +-------------------------------------------+
+L 12/05/2009 - 21:32:02: [l4d2multi.smx] |                  MAP END                  |
+L 12/05/2009 - 21:32:02: [l4d2multi.smx] +-------------------------------------------+
+L 12/05/2009 - 21:57:33: [l4d2multi.smx] PLAYER_ACTIVATE: --> General1337 <-- just activated in the game
+L 12/05/2009 - 22:03:31: [l4d2multi.smx] +-------------------------------------------+
+L 12/05/2009 - 22:03:31: [l4d2multi.smx] |                  MAP END                  |
+L 12/05/2009 - 22:03:31: [l4d2multi.smx] +-------------------------------------------+
+L 12/05/2009 - 22:06:24: [l4d2multi.smx] +-------------------------------------------+
+L 12/05/2009 - 22:06:24: [l4d2multi.smx] |               PLUGIN START                |
+L 12/05/2009 - 22:06:24: [l4d2multi.smx] +-------------------------------------------+
+L 12/05/2009 - 22:06:24: [l4d2multi.smx] |               Version: 1 test           |
+L 12/05/2009 - 22:06:24: [l4d2multi.smx] +-------------------------------------------+
+L 12/05/2009 - 22:06:24: [l4d2multi.smx] PLUGIN_LOAD -> NOTICE: gamedir is \left4dead2. setting mp_gamemode convar flags to unprotected
+L 12/05/2009 - 22:06:24: [l4d2multi.smx] PLUGIN_LOAD -> NOTICE: gamemode is COOP. hooking events...
+L 12/05/2009 - 22:06:24: [l4d2multi.smx] HOOKED_EVENTS -> NOTICE: hooked events
+L 12/05/2009 - 22:06:24: [l4d2multi.smx] PLUGIN_LOAD -> NOTICE: gamedir is \left4dead2. restoring original mp_gamemode convar flags
+L 12/05/2009 - 22:06:34: [l4d2multi.smx] PLAYER_ACTIVATE: --> General1337 <-- just activated in the game
+L 12/05/2009 - 22:18:52: [l4d2multi.smx] +-------------------------------------------+
+L 12/05/2009 - 22:18:52: [l4d2multi.smx] |                  MAP END                  |
+L 12/05/2009 - 22:18:52: [l4d2multi.smx] +-------------------------------------------+
+L 12/05/2009 - 22:19:03: [l4d2multi.smx] PLAYER_ACTIVATE: --> General1337 <-- just activated in the game
+L 12/05/2009 - 22:48:05: [l4d2multi.smx] +-------------------------------------------+
+L 12/05/2009 - 22:48:05: [l4d2multi.smx] |                  MAP END                  |
+L 12/05/2009 - 22:48:05: [l4d2multi.smx] +-------------------------------------------+
+L 12/05/2009 - 22:48:15: [l4d2multi.smx] PLAYER_ACTIVATE: --> General1337 <-- just activated in the game
+L 12/05/2009 - 22:52:50: [l4d2multi.smx] +-------------------------------------------+
+L 12/05/2009 - 22:52:50: [l4d2multi.smx] |                  MAP END                  |
+L 12/05/2009 - 22:52:50: [l4d2multi.smx] +-------------------------------------------+
+L 12/05/2009 - 22:53:02: [l4d2multi.smx] PLAYER_ACTIVATE: --> General1337 <-- just activated in the game
+L 12/05/2009 - 23:03:49: [l4d2multi.smx] +-------------------------------------------+
+L 12/05/2009 - 23:03:49: [l4d2multi.smx] |                  MAP END                  |
+L 12/05/2009 - 23:03:49: [l4d2multi.smx] +-------------------------------------------+
+L 12/05/2009 - 23:04:15: [l4d2multi.smx] PLAYER_ACTIVATE: --> General1337 <-- just activated in the game
+L 12/05/2009 - 23:13:18: [l4d2multi.smx] +-------------------------------------------+
+L 12/05/2009 - 23:13:18: [l4d2multi.smx] |                  MAP END                  |
+L 12/05/2009 - 23:13:18: [l4d2multi.smx] +-------------------------------------------+
