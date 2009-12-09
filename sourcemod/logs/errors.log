@@ -445,3 +445,18 @@ L 12/05/2009 - 23:04:15: [l4d2multi.smx] PLAYER_ACTIVATE: --> General1337 <-- ju
 L 12/05/2009 - 23:13:18: [l4d2multi.smx] +-------------------------------------------+
 L 12/05/2009 - 23:13:18: [l4d2multi.smx] |                  MAP END                  |
 L 12/05/2009 - 23:13:18: [l4d2multi.smx] +-------------------------------------------+
+L 12/06/2009 - 17:08:50: [l4d2multi.smx] +-------------------------------------------+
+L 12/06/2009 - 17:08:50: [l4d2multi.smx] |               PLUGIN START                |
+L 12/06/2009 - 17:08:50: [l4d2multi.smx] +-------------------------------------------+
+L 12/06/2009 - 17:08:50: [l4d2multi.smx] |               Version: 1 test           |
+L 12/06/2009 - 17:08:50: [l4d2multi.smx] +-------------------------------------------+
+L 12/06/2009 - 17:08:50: [l4d2multi.smx] PLUGIN_LOAD -> NOTICE: gamedir is \left4dead2. setting mp_gamemode convar flags to unprotected
+L 12/06/2009 - 17:08:50: [l4d2multi.smx] PLUGIN_LOAD -> NOTICE: gamemode is COOP. hooking events...
+L 12/06/2009 - 17:08:50: [l4d2multi.smx] HOOKED_EVENTS -> NOTICE: hooked events
+L 12/06/2009 - 17:08:50: [l4d2multi.smx] PLUGIN_LOAD -> NOTICE: gamedir is \left4dead2. restoring original mp_gamemode convar flags
+L 12/06/2009 - 17:10:11: [l4d2multi.smx] +-------------------------------------------+
+L 12/06/2009 - 17:10:11: [l4d2multi.smx] |                  MAP END                  |
+L 12/06/2009 - 17:10:11: [l4d2multi.smx] +-------------------------------------------+
+L 12/06/2009 - 17:11:17: [l4d2multi.smx] PLAYER_ACTIVATE: --> notorious d.a.d. <-- just activated in the game
+L 12/06/2009 - 17:11:19: [l4d2multi.smx] PLAYER_ACTIVATE: --> General1337 <-- just activated in the game
+L 12/06/2009 - 17:11:59: [l4d2multi.smx] PLAYER_ACTIVATE: --> ShaRose <-- just activated in the game
